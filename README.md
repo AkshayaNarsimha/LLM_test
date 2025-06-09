@@ -92,20 +92,6 @@ Output files will be saved in `*_results/` directories respectively.
 | `string_utils_validation` | `original_tests/test_string_utils_validation.py` | ✅ +Edge cases, +Comments | ✅ Refined assertions | ✅ Very readable layout |
 | `httpie_sessions`    | `original_tests/test_httpie_sessions.py` | ✅ Added constants, more readable | ✅ Simplified control flow | ✅ Added setup clarity |
 
-### 🏆 Overall Ranking (Readability)
-1. **LLaMA (Meta)** – Best overall readability, naming, and test flow.
-2. **DeepSeek** – Slightly verbose but detailed and clean.
-3. **Gemini** – Concise and focused, fewer comments.
-
----
-
-## ✅ Conclusion
-
-The automated approach using concise high-level prompts effectively improved the readability of Pynguin-generated tests. LLaMA produced the clearest structure and variable names, DeepSeek offered rich details and expanded coverage, and Gemini balanced clarity with conciseness.
-
-This repository demonstrates how test suite quality can be enhanced using modern LLMs with minimal manual intervention.
-
----
 
 ## 📬 Feedback
 
