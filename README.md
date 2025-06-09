@@ -42,8 +42,8 @@ This repository demonstrates a technical approach to enhancing the readability o
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/test-readability-enhancer.git
-cd test-readability-enhancer
+git clone https://github.com/AkshayaNarsimha/LLM_test.git
+cd LLM_test
 ```
 
 ### 2. Install Dependencies
