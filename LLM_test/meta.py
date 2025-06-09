@@ -2,7 +2,7 @@ import os
 from openai import OpenAI
 
 # ✅ Your OpenRouter API key here
-OPENROUTER_API_KEY = "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"  # Replace with your key
+OPENROUTER_API_KEY = "your_api_key"  # Replace with your key
 
 
 # ✅ Initialize OpenAI for OpenRouter with Llama 3.2 1B
