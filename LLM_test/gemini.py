@@ -3,7 +3,7 @@ from openai import OpenAI
 import time
 
 # ✅ Replace with your OpenRouter API Key
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "your_api_key"
 
 # ✅ Initialize OpenAI (OpenRouter) Client
 client = OpenAI(
